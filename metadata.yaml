@@ -1,0 +1,28 @@
+_repo: Les-Explorateurs-du-Centre-de-l-Afrique_40279
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40279-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Durand, l'Abbé (Durand, Édouard-Joseph)
+    alias: Durand, l'Abbe (Durand, Edouard-Joseph)
+    birthdate: 1832
+    deathdate: 1881
+    gutenberg_agent_id: '40522'
+    url: http://www.gutenberg.org/2009/agents/40522
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2012-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40279'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Africa, Central -- Discovery and exploration'
+- !lcc 'DT'
+title: Les Explorateurs du Centre de l'Afrique
+url: http://www.gutenberg.org/ebooks/40279
